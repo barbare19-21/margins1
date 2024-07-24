@@ -1,0 +1,25 @@
+.B{
+    width: 320px;
+    height: 138px;
+    margin-top: 73px;
+    margin-left: 109px;
+    border: 1px solid #B4B4B4
+    
+}
+p{
+    color: #808080;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    text-align: left;
+
+}
+h4{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16.41px;
+    text-align: left;
+
+}
